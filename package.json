@@ -56,5 +56,11 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "ember-cli-fastboot": "^2.2.3"
+  },
+  "resolutions": {
+    "**/fastboot": "3.1.0"
   }
 }
